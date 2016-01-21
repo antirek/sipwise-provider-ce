@@ -12,3 +12,11 @@ vagrant up
 http://www.kamailio.org/events/2014-KamailioWorld/day0/w1-Andreas.Granig-SIPProvider-Workshop.pdf
 
 
+## next ?
+
+xmpp +
+sip +
+presence ?
+xmpp audio, video ?
+webrtc ?   488 Not acceptable
+
